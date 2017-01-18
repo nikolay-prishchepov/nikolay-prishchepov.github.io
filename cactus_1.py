@@ -21,10 +21,10 @@ for d in bad_string:
 
 good_string += '\n'
 
-#print good_string
+print good_string
 
-f = open('/home/pi/www/cactus_1.csv','a')
-f.write(good_string)
-f.close()
+#f = open('/home/pi/www/cactus_1.csv','a')
+#f.write(good_string)
+#f.close()
 
 sys.exit(0)
