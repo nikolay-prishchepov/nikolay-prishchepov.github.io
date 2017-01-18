@@ -1,1 +1,0 @@
-# nikolay-prishchepov.github.io
