@@ -7,7 +7,6 @@ set style data lines
 set timefmt "\"%m/%d/%y %H:%M:%S\""
 set grid
 set xlabel "Day"
-set ylabel "Humidity"
 set format x "%d"
 set xtics 86400
 set ytics 100
