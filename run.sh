@@ -4,5 +4,5 @@ cd /home/pi/cactus
 ./ce54.plt
 ./b994.py
 ./b994.plt
-git commit -a -m "cron"
-git push origin master
+/usr/bin/git commit -a -m "cron"
+/usr/bin/git push origin master
