@@ -4,5 +4,9 @@ cd /home/pi/cactus
 ./ce54.plt
 ./b994.py
 ./b994.plt
-HOME=/home/pi /usr/bin/git commit -a -m "cron"
-HOME=/home/pi /usr/bin/git push origin master
+
+eval `ssh-agent -s` 
+ssh-add ~/.ssh/*_rsa
+
+/usr/bin/git commit -a -m "cron"
+/usr/bin/git push origin master
