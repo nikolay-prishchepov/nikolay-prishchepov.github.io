@@ -7,8 +7,8 @@ cd /home/pi/cactus
 ./b994.py
 ./b994.plt
 
-eval `ssh-agent -s`
-ssh-add ~/.ssh/*_rsa
+#eval `ssh-agent -s`
+#ssh-add ~/.ssh/*_rsa
 
 /usr/bin/git commit -a -m "cron"
 /usr/bin/git push origin master
