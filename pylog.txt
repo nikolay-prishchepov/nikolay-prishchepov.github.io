@@ -3,5 +3,5 @@ connect 54:4A:16:2F:B9:94
 [                 ][LE]> connect 54:4A:16:2F:B9:94
 Attempting to connect to 54:4A:16:2F:B9:94
 [54:4A:16:2F:B9:94][LE]>                          Connection successful
-[0;94m[54:4A:16:2F:B9:94][0m[LE]>                                     Notification handle = 0x0012 value: 30 31 35 30 0d 0a 
+[0;94m[54:4A:16:2F:B9:94][0m[LE]>                                     Notification handle = 0x0012 value: 30 31 34 37 0d 0a 
 [0;94m[54:4A:16:2F:B9:94][0m[LE]> disconnect
