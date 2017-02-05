@@ -2,10 +2,10 @@
 
 cd /home/pi/cactus
 
-./ce54.py
-./ce54.plt
-./b994.py
-./b994.plt
+./f631.py
+./f631.plt
+./07cb.py
+./07cb.plt
 
 #eval `ssh-agent -s`
 #ssh-add ~/.ssh/*_rsa

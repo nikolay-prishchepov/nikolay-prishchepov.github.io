@@ -1,7 +1,7 @@
-connect 54:4A:16:2F:B9:94
-connect 54:4A:16:2F:B9:94
-[                 ][LE]> connect 54:4A:16:2F:B9:94
-Attempting to connect to 54:4A:16:2F:B9:94
-[54:4A:16:2F:B9:94][LE]>                          Connection successful
-[0;94m[54:4A:16:2F:B9:94][0m[LE]>                                     Notification handle = 0x0012 value: 30 30 37 38 0d 0a 
-[0;94m[54:4A:16:2F:B9:94][0m[LE]> disconnect
+connect 5C:F8:21:8F:07:CB
+connect 5C:F8:21:8F:07:CB
+[                 ][LE]> connect 5C:F8:21:8F:07:CB
+Attempting to connect to 5C:F8:21:8F:07:CB
+[5C:F8:21:8F:07:CB][LE]> [KConnection successful
+[0;94m[5C:F8:21:8F:07:CB][0m[LE]> [KNotification handle = 0x0012 value: 30 31 30 32 20 30 30 32 34 20 32 36 39 32 0d 0a 
+[0;94m[5C:F8:21:8F:07:CB][0m[LE]> disconnect
