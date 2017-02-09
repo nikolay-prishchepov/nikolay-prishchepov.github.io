@@ -9,7 +9,7 @@ set style data lines
 set timefmt "\"%m/%d/%y %H:%M:%S\""
 set xlabel "Day"
 set format x "%d"
-set xtics 8640
+set xtics 86400
 
 set format y ""
 set ytics 100
