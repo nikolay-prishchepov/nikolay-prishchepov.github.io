@@ -3,5 +3,5 @@ connect 5C:F8:21:8F:07:CB
 [                 ][LE]> connect 5C:F8:21:8F:07:CB
 Attempting to connect to 5C:F8:21:8F:07:CB
 [5C:F8:21:8F:07:CB][LE]>                          Connection successful
-[0;94m[5C:F8:21:8F:07:CB][0m[LE]>                                     Notification handle = 0x0012 value: 30 33 38 33 20 30 30 32 33 20 32 39 33 38 0d 0a 
+[0;94m[5C:F8:21:8F:07:CB][0m[LE]>                                     Notification handle = 0x0012 value: 30 33 38 36 20 30 30 32 32 20 32 39 33 30 0d 0a 
 [0;94m[5C:F8:21:8F:07:CB][0m[LE]> disconnect
